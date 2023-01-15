@@ -1,0 +1,9 @@
+
+const note = [
+    {
+        "title":"Test Title",
+        "text":"Test text"
+    }
+];
+
+module.exports = note;
