@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const fs = require('fs');
 const path = require('path');
-const uuid = require('./helpers/uuid');
+const uuid = require('../helpers/uuid');
 const util = require('../helpers/fsUtils');
 
 //to get note data
