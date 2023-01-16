@@ -1,9 +1,16 @@
-
-const note = [
+[
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "1e1utp95cksnlspa0",
+        "title": "test2",
+        "text": "test2"
+    },
+    {
+        "id": "1e1utp95cksnlt0h4",
+        "title": "test3",
+        "text": "test3\n"
     }
-];
-
-module.exports = note;
+]
