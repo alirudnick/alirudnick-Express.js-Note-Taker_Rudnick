@@ -14,6 +14,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
 The following images show the web application's appearance and functionality:
+![Note Taker Image](https://user-images.githubusercontent.com/107882457/212592152-e200e226-677c-4b95-bb8b-b7e7acc82012.png)
+![Note Taker Image2](https://user-images.githubusercontent.com/107882457/212592158-54f2cf05-263c-4e5a-b4e2-33734248995e.png)
+
 
 
 ## Links
