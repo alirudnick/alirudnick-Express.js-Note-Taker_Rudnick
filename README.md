@@ -20,6 +20,6 @@ The following images show the web application's appearance and functionality:
 
 
 ## Links
-Link to Github:
+Link to Github: https://github.com/alirudnick/alirudnick-Express.js-Note-Taker_Rudnick.git
 
 Link to working app in browser: 
